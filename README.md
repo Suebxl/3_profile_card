@@ -2,7 +2,7 @@
 
 ### The challenge
 
-- Build out the project to the designs provided
+- Profile card made for mobile screens.
 
 ### Screenshot
 
