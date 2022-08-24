@@ -6,28 +6,17 @@
 
 ### Screenshot
 
-
-
-
-### Links
-
-
-## My process
+![Capture d’écran 2022-08-24 à 10 54 24](https://user-images.githubusercontent.com/73802863/186455134-cb811fb2-8de3-41b5-8d29-4b3011e03269.png)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-
--
 
 ### What I learned
 
 - background-image
-
-To see how you can add code snippets, see below:
 
 ```background-color: hsl(0, 0%, 59%);
   background-image:url("./images/bg-pattern-top.svg"), url("./images/bg-pattern-bottom.svg");
@@ -37,13 +26,9 @@ To see how you can add code snippets, see below:
   background-position: right 50vw bottom 10vh, left 45vw top 45vh;
 ```
 
-
-### Continued development
-
-
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com/watch?v=Aje9cXDzklk&t=718s) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [https://www.youtube.com/watch?v=Aje9cXDzklk&t=718s](https://www.youtube.com/watch?v=Aje9cXDzklk&t=718s) - Responsive Profile Card | Figma to HTML & CSS
 
 
 ## Author
