@@ -5,8 +5,8 @@
 - Profile card made for mobile screens.
 
 ### Screenshot
+![Capture d’écran 2022-08-24 à 11 27 01](https://user-images.githubusercontent.com/73802863/186459043-624c3447-6b73-4074-a34a-9450c43ab6a9.png)
 
-![Capture d’écran 2022-08-24 à 10 54 24](https://user-images.githubusercontent.com/73802863/186455134-cb811fb2-8de3-41b5-8d29-4b3011e03269.png)
 
 ### Built with
 
