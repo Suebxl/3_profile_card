@@ -13,6 +13,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 100vh;
 }
 
 .card-container{
@@ -21,7 +22,8 @@ body {
   border-radius: 16px;
   overflow: hidden;
   text-align: center;
-  width: 375px;
+  width: 350px;
+  align-self: center;
  }
 
 .card--top {
